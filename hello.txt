@@ -1,1 +1,4 @@
-메인에서 쓴 hello.txt
+merge용 파일 하나 만듭니다
+# hello에서 바꿈
+## 이번엔 바꾸고 commit해서 메인은 못보게
+
